@@ -2,7 +2,9 @@
 - 👀 I’m interested in DataScience
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on any beginner's level project.
-- 📫 How to reach me ...
+- 📫 Here's how you can reach me ...
+- ** sidratulmuntaha135&gmail.com
+- ** edin.com/in/sidra-tul-muntaha-ghouri/
 
 <!---
 Sidra-Tul-Muntaha-Ghouri/Sidra-Tul-Muntaha-Ghouri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
