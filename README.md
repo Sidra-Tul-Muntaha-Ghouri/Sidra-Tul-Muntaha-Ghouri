@@ -1,9 +1,8 @@
-- # Hi 🖐, I’m @Sidra-Tul-Muntaha-Ghouri
-- 👀 I’m interested in DataScience
-- 🌱 I’m currently learning ...
+- # Hi 🖐, I’m *Sidra Tul Muntaha*
+- 🌱 I’m currently learning Power BI, Python, & SQL
 - 💞️ I’m looking to collaborate on any beginner's level project.
 - 📫 Here's how you can reach me ...
-- ** sidratulmuntaha135&gmail.com
+- [sidratulmuntaha135@gmail.com)(https://mail.google.com/mail/u/0/#inbox?compose=CllgCKHRLxWtmGMnlfxNMKCdxlgCqpgbKBMHgVBtQqZLqfHtKCMGkqjWxPpMPFbwzGcbDRxdpsBsidratulmuntaha135&gmail.com)
 - ** linkedin.com/in/sidra-tul-muntaha-ghouri/
 - 
 
