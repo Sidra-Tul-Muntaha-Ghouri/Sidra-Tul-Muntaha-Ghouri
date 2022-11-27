@@ -11,11 +11,10 @@
 ## 📎 Connect with me at 👇:
 
   [![https://linkedin.com/in/sidra-tul-muntaha-ghouri/](https://github.com/Sidra-Tul-Muntaha-Ghouri/LOGOS/blob/main/linkedin%2050x50%20pi.png " LinkedIn ")](https://linkedin.com/in/sidra-tul-muntaha-ghouri/)
-  [![https://www.reddit.com/user/Extension-Jeweler-55/](https://github.com/Sidra-Tul-Muntaha-Ghouri/LOGOS/blob/main/reddit%2050x50%20pi.png " reddit ")](https://www.reddit.com/user/Extension-Jeweler-55/)
-  [![https://twitter.com/Sidra_Ghouri135](https://github.com/Sidra-Tul-Muntaha-Ghouri/LOGOS/blob/main/twitter%2050x50%20pi.png " twitter ")](https://twitter.com/Sidra_Ghouri135)
+   [![https://twitter.com/Sidra_Ghouri135](https://github.com/Sidra-Tul-Muntaha-Ghouri/LOGOS/blob/main/twitter%2050x50%20pi.png " twitter ")](https://twitter.com/Sidra_Ghouri135)
   [![https://www.facebook.com/sidratul.mateen](https://github.com/Sidra-Tul-Muntaha-Ghouri/LOGOS/blob/main/facebook%2050x50%20pi.png " facebook ")](https://www.facebook.com/sidratul.mateen)
 ## 📎 Available to help with 👇:
-   ![](https://github.com/Sidra-Tul-Muntaha-Ghouri/LOGOS/blob/main/facebook%2050x50%20pi.png " facebook ")
+   ![](https://github.com/Sidra-Tul-Muntaha-Ghouri/LOGOS/blob/main/facebook%2050x50%20pi.png " working on it ")
    
     
 <!---
