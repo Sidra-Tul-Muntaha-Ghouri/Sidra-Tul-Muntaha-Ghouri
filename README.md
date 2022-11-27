@@ -3,6 +3,9 @@
  
  ✨ I’m looking to collaborate on any beginner's level project.
  
+  https://gpvc.arturio.dev/github-profile-views-counter
+ ![Profile views](https://gpvc.arturio.dev/[Sidra-Tul-Muntaha-Ghouri])
+ 
  📫 Here's how you can reach me ...
  [gmail](mailto:sidratulmuntaha135@gmail.com)
  
