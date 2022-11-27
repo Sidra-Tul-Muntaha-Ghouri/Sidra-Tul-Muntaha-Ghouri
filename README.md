@@ -14,10 +14,11 @@
   ![https://www.reddit.com/user/Extension-Jeweler-55/](https://github.com/Sidra-Tul-Muntaha-Ghouri/LOGOS/blob/main/reddit%2050x50%20pi.png " reddit ")
   ![https://twitter.com/Sidra_Ghouri135](https://github.com/Sidra-Tul-Muntaha-Ghouri/LOGOS/blob/main/twitter%2050x50%20pi.png " twitter ")
   ![https://www.facebook.com/sidratul.mateen](https://github.com/Sidra-Tul-Muntaha-Ghouri/LOGOS/blob/main/facebook%2050x50%20pi.png " facebook ")
-  
+  ![facebook.com/sidratul.mateen](https://github.com/Sidra-Tul-Muntaha-Ghouri/LOGOS/blob/main/facebook%2050x50%20pi.png " facebook ")
 ## 📎 Available to help with 👇:
    ![](https://github.com/Sidra-Tul-Muntaha-Ghouri/LOGOS/blob/main/facebook%2050x50%20pi.png " facebook ")
-  
+   
+    
 <!---
 Sidra-Tul-Muntaha-Ghouri/Sidra-Tul-Muntaha-Ghouri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
