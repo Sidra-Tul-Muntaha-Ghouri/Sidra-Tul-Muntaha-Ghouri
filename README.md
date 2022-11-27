@@ -15,7 +15,8 @@
    [![https://twitter.com/Sidra_Ghouri135](https://github.com/Sidra-Tul-Muntaha-Ghouri/LOGOS/blob/main/twitter%2050x50%20pi.png " twitter ")](https://twitter.com/Sidra_Ghouri135)
   [![https://www.facebook.com/sidratul.mateen](https://github.com/Sidra-Tul-Muntaha-Ghouri/LOGOS/blob/main/facebook%2050x50%20pi.png " facebook ")](https://www.facebook.com/sidratul.mateen)
 ## 📎 Available to help with 👇:
-   ![](https://github.com/Sidra-Tul-Muntaha-Ghouri/LOGOS/blob/main/facebook%2050x50%20pi.png " working on it ")
+   ![](https://github.com/Sidra-Tul-Muntaha-Ghouri/LOGOS/blob/main/excel%2050x50%20pi.png " Excel ")
+   ![](https://github.com/Sidra-Tul-Muntaha-Ghouri/LOGOS/blob/main/python%2050x50%20pi.png " Python ")
    
     
 <!---
