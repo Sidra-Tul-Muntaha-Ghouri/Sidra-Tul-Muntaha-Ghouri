@@ -1,4 +1,6 @@
  # Hi 🖐, I’m *Sidra Tul Muntaha*
+ 🎓 An **Electrical Engineer**
+ 
  🌱 Learning Data Science, Power BI, Python, & SQL.
  
  ✨ Actively looking to collaborate on any beginner's level project.
