@@ -7,7 +7,7 @@
  
  ![Profile views](https://gpvc.arturio.dev/Sidra-Tul-Muntaha-Ghouri)
  
- 📫 Here's how you can reach me ...
+ ## 📫 Here's how you can reach me ...
  
    [![mailto:sidratulmuntaha135@gmail.com](https://github.com/Sidra-Tul-Muntaha-Ghouri/LOGOS/blob/main/gmail%2050x50%20pi.png "Gmail")](mailto:sidratulmuntaha135@gmail.com)
         
