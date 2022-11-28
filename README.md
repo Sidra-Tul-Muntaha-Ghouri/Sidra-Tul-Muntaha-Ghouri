@@ -1,7 +1,7 @@
  # Hi 🖐, I’m *Sidra Tul Muntaha*
- 🌱 I’m currently learning Power BI, Python, & SQL.
+ 🌱 Learning Data Science, Power BI, Python, & SQL.
  
- ✨ I’m looking to collaborate on any beginner's level project.
+ ✨ Actively looking to collaborate on any beginner's level project.
  
  ![Profile views](https://gpvc.arturio.dev/Sidra-Tul-Muntaha-Ghouri)
  
