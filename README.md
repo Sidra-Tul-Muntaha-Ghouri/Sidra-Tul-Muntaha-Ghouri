@@ -19,7 +19,9 @@
 ## 📎 Available to help with 👇:
    ![](https://github.com/Sidra-Tul-Muntaha-Ghouri/LOGOS/blob/main/excel%2050x50%20pi.png " Excel ")
    ![](https://github.com/Sidra-Tul-Muntaha-Ghouri/LOGOS/blob/main/python%2050x50%20pi.png " Python ")
-   
+
+   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sidra-Tul-Muntaha-Ghouri&theme=dark&background=000000)](https://git.io/streak-stats)
+
     
 <!---
 Sidra-Tul-Muntaha-Ghouri/Sidra-Tul-Muntaha-Ghouri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
