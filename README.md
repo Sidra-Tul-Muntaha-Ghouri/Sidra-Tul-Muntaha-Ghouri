@@ -1,6 +1,6 @@
  <h1 align="center">Hi 🖐, I’m <em>Sidra Tul Muntaha</em></h1>
  <!---
- <p align="center"><b>Data Analyst l Electrical Engineer | Excel, SQL, PowerBI | I help business turn data into actionable insights</b></p>
+ <p align="center"><b>Data Analyst l Electrical Engineer | Proficient in Excel, SQL, PowerBI | I help business turn data into actionable insights</b></p>
  --->
 
  ![Profile views](https://komarev.com/ghpvc/?username=Sidra-Tul-Muntaha-Ghouri)
