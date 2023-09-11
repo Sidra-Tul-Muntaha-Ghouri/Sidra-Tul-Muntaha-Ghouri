@@ -7,6 +7,8 @@
  🌱 Learning Data Science, Power BI, Python, & SQL.
  
  ✨ Actively looking to collaborate on any Intermediate-level project.
+ ![Profile views](https://komarev.com/ghpvc/?username=Sidra-Tul-Muntaha-Ghouri)
+
  
  ![Profile views](https://gpvc.arturio.dev/Sidra-Tul-Muntaha-Ghouri)
  
