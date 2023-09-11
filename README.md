@@ -2,15 +2,14 @@
  <h1 align="center">Hi 🖐, I’m <em>Sidra Tul Muntaha</em></h1>
   <p align="center">I help business turn data into actionable insights</p>
 
+ ![Profile views](https://komarev.com/ghpvc/?username=Sidra-Tul-Muntaha-Ghouri)
+ 
  🎓 An **Electrical Engineer**
  
  🌱 Learning Data Science, Power BI, Python, & SQL.
  
  ✨ Actively looking to collaborate on any Intermediate-level project.
- ![Profile views](https://komarev.com/ghpvc/?username=Sidra-Tul-Muntaha-Ghouri)
 
- 
- ![Profile views](https://gpvc.arturio.dev/Sidra-Tul-Muntaha-Ghouri)
  
  ### 📫 Here's how you can reach me ...
  
