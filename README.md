@@ -1,5 +1,5 @@
  # Hi 🖐, I’m *Sidra Tul Muntaha*
- <p align="center">#Hi 🖐, I’m <em>Sidra Tul Muntaha</em></p>
+ <h1 align="center">#Hi 🖐, I’m <em>Sidra Tul Muntaha</em></h1>
 
  🎓 An **Electrical Engineer**
  
