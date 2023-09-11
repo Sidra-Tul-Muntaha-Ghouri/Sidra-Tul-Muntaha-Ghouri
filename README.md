@@ -1,11 +1,11 @@
  # Hi 🖐, I’m *Sidra Tul Muntaha*
- <h1 align="center">#Hi 🖐, I’m <em>Sidra Tul Muntaha</em></h1>
+ <h1 align="center">Hi 🖐, I’m <em>Sidra Tul Muntaha</em></h1>
 
  🎓 An **Electrical Engineer**
  
  🌱 Learning Data Science, Power BI, Python, & SQL.
  
- ✨ Actively looking to collaborate on any Intermediate level project.
+ ✨ Actively looking to collaborate on any Intermediate-level project.
  
  ![Profile views](https://gpvc.arturio.dev/Sidra-Tul-Muntaha-Ghouri)
  
