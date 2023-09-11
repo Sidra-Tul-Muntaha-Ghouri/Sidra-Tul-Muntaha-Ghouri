@@ -1,5 +1,5 @@
  <h1 align="center">Hi 🖐, I’m <em>Sidra Tul Muntaha</em></h1>
-  <p align="center"><b>Data Analyst l Electrical Engineer | Excel, SQL, PowerBI | I help business turn data into actionable insights</b></p>
+  //<p align="center"><b>Data Analyst l Electrical Engineer | Excel, SQL, PowerBI | I help business turn data into actionable insights</b></p>
 
  ![Profile views](https://komarev.com/ghpvc/?username=Sidra-Tul-Muntaha-Ghouri)
  
@@ -14,9 +14,10 @@
  
    [![mailto:sidratulmuntaha135@gmail.com](https://github.com/Sidra-Tul-Muntaha-Ghouri/LOGOS/blob/main/gmail%2050x50%20pi.png "Gmail")](mailto:sidratulmuntaha135@gmail.com)
         
-### 📎 Connect with me at 👇:
+### 📎 Connect with me here 👇:
 
   [![https://linkedin.com/in/sidra-tul-muntaha-ghouri/](https://github.com/Sidra-Tul-Muntaha-Ghouri/LOGOS/blob/main/linkedin%2050x50%20pi.png " LinkedIn ")](https://linkedin.com/in/sidra-tul-muntaha-ghouri/)
+  [![https://medium.com/@sidratulmuntahaghouri](https://github.com/Sidra-Tul-Muntaha-Ghouri/LOGOS/blob/main/linkedin%2050x50%20pi.png " Medium ")](https://medium.com/@sidratulmuntahaghouri/)
    [![https://twitter.com/Sidra_Ghouri135](https://github.com/Sidra-Tul-Muntaha-Ghouri/LOGOS/blob/main/twitter%2050x50%20pi.png " twitter ")](https://twitter.com/Sidra_Ghouri135)
   [![https://www.facebook.com/sidratul.mateen](https://github.com/Sidra-Tul-Muntaha-Ghouri/LOGOS/blob/main/facebook%2050x50%20pi.png " facebook ")](https://www.facebook.com/sidratul.mateen)
 ### 📎 Available to help with 👇:
