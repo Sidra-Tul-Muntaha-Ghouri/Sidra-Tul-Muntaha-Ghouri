@@ -1,4 +1,3 @@
- # Hi 🖐, I’m *Sidra Tul Muntaha*
  <h1 align="center">Hi 🖐, I’m <em>Sidra Tul Muntaha</em></h1>
   <p align="center"><b>Data Analyst l Electrical Engineer | Excel, SQL, PowerBI | I help business turn data into actionable insights</b></p>
 
