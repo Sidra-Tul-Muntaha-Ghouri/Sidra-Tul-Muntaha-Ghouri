@@ -23,7 +23,7 @@
   [![https://medium.com/@sidratulmuntahaghouri](https://github.com/Sidra-Tul-Muntaha-Ghouri/LOGOS/blob/main/7088889_medium_medium%20logo_icon.png " Medium ")](https://medium.com/@sidratulmuntahaghouri/)
 
 
-   [![https://twitter.com/Sidra_Ghouri135](https://github.com/Sidra-Tul-Muntaha-Ghouri/LOGOS/blob/main/twitter%2050x50%20pi.png =50x50 " twitter ")](https://twitter.com/Sidra_Ghouri135)
+   [![https://twitter.com/Sidra_Ghouri135](https://github.com/Sidra-Tul-Muntaha-Ghouri/LOGOS/blob/main/twitter%2050x50%20pi.png " twitter ")](https://twitter.com/Sidra_Ghouri135)
   [![https://www.facebook.com/sidratul.mateen](https://github.com/Sidra-Tul-Muntaha-Ghouri/LOGOS/blob/main/facebook%2050x50%20pi.png " facebook ")](https://www.facebook.com/sidratul.mateen)
 ### 📎 Available to help with 👇:
    ![](https://github.com/Sidra-Tul-Muntaha-Ghouri/LOGOS/blob/main/excel%2050x50%20pi.png " Excel ")
