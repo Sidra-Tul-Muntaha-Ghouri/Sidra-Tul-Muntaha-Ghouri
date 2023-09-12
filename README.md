@@ -20,7 +20,7 @@
 ### 📎 Connect with me here 👇:
 
   [![https://linkedin.com/in/sidra-tul-muntaha-ghouri/](https://github.com/Sidra-Tul-Muntaha-Ghouri/LOGOS/blob/main/linkedin%2050x50%20pi.png " LinkedIn ")](https://linkedin.com/in/sidra-tul-muntaha-ghouri/)
-  [![https://medium.com/@sidratulmuntahaghouri](https://github.com/Sidra-Tul-Muntaha-Ghouri/LOGOS/blob/main/7088889_medium_medium%20logo_icon.png) " Medium ")](https://medium.com/@sidratulmuntahaghouri/)
+  [![https://medium.com/@sidratulmuntahaghouri](https://github.com/Sidra-Tul-Muntaha-Ghouri/LOGOS/blob/main/7088889_medium_medium%20logo_icon.png " Medium ")](https://medium.com/@sidratulmuntahaghouri/)
 
 
    [![https://twitter.com/Sidra_Ghouri135](https://github.com/Sidra-Tul-Muntaha-Ghouri/LOGOS/blob/main/twitter%2050x50%20pi.png =50x50 " twitter ")](https://twitter.com/Sidra_Ghouri135)
