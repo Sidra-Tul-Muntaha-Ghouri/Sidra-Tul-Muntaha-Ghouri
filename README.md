@@ -22,6 +22,7 @@
   [![https://linkedin.com/in/sidra-tul-muntaha-ghouri/](https://github.com/Sidra-Tul-Muntaha-Ghouri/LOGOS/blob/main/linkedin%2050x50%20pi.png " LinkedIn ")](https://linkedin.com/in/sidra-tul-muntaha-ghouri/)
   [![https://medium.com/@sidratulmuntahaghouri](https://github.com/Sidra-Tul-Muntaha-Ghouri/LOGOS/blob/main/7088889_medium_medium%20logo_icon.png " Medium ")](https://medium.com/@sidratulmuntahaghouri/)
 
+<a href="https://medium.com/@sidratulmuntahaghouri/"><img src="https://github.com/Sidra-Tul-Muntaha-Ghouri/LOGOS/blob/main/7088889_medium_medium%20logo_icon.png" alt="Medium" width="50" height="50"></a>
 
    [![https://twitter.com/Sidra_Ghouri135](https://github.com/Sidra-Tul-Muntaha-Ghouri/LOGOS/blob/main/twitter%2050x50%20pi.png " twitter ")](https://twitter.com/Sidra_Ghouri135)
   [![https://www.facebook.com/sidratul.mateen](https://github.com/Sidra-Tul-Muntaha-Ghouri/LOGOS/blob/main/facebook%2050x50%20pi.png " facebook ")](https://www.facebook.com/sidratul.mateen)
