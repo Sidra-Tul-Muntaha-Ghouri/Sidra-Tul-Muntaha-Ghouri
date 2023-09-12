@@ -1,5 +1,5 @@
  <h1 align="center"><b>Hi 🖐, I’m <em>Sidra Tul Muntaha</em></b></h1>
-  <p align="center"><b>Data Analyst | I help business turn data into actionable insights</b></p>
+  <p align="center"><b>Passionate Data Analyst | I turn data into actionable insights</b></p>
  <!---
  <p align="center"><b>Data Analyst | Electrical Engineer | Proficient in Excel, SQL, PowerBI | I help business turn data into actionable insights</b></p>
  --->
