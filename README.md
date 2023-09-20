@@ -33,6 +33,8 @@
 
    [![GitHub Streak](https://streak-stats.demolab.com?user=Sidra-Tul-Muntaha-Ghouri&theme=city-lights&exclude_days=Sun)](https://git.io/streak-stats)
 
+   [![GitHub Streak](https://streak-stats.demolab.com?user=Sidra-Tul-Muntaha-Ghouri&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+
     
 <!---
 Sidra-Tul-Muntaha-Ghouri/Sidra-Tul-Muntaha-Ghouri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
