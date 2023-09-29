@@ -37,7 +37,7 @@
  
    [![GitHub Streak](https://streak-stats.demolab.com?user=Sidra-Tul-Muntaha-Ghouri&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
    
-[![Profile Detail Card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sidra-Tul-Muntaha-Ghouri&theme=transparent)
+[![Profile Detail Card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sidra-Tul-Muntaha-Ghouri&theme=transparent)]
 
 [![GitHub stats card](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sidra-Tul-Muntaha-Ghouri&theme=transparent)
 
