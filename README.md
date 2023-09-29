@@ -39,11 +39,19 @@
    
 [![Profile Detail Card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sidra-Tul-Muntaha-Ghouri&theme=transparent)
 
+!(http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sidra-Tul-Muntaha-Ghouri&theme=transparent)
+
 [![Top languages used in repository card](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sidra-Tul-Muntaha-Ghouri&theme=transparent)
 
 
 
 <!---
+
+
+##cards used from this link
+
+https://github.com/vn7n24fzkq/github-profile-summary-cards#profile-details-card
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sidra-Tul-Muntaha-Ghouri&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
     
 
