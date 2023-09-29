@@ -37,7 +37,7 @@
  
    [![GitHub Streak](https://streak-stats.demolab.com?user=Sidra-Tul-Muntaha-Ghouri&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sidra-Tul-Muntaha-Ghouri&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sidra-Tul-Muntaha-Ghouri&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
     
 <!---
 Sidra-Tul-Muntaha-Ghouri/Sidra-Tul-Muntaha-Ghouri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
