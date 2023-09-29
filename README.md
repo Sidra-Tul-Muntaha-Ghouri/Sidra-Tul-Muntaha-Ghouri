@@ -40,7 +40,6 @@
 ![Profile Detail Card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sidra-Tul-Muntaha-Ghouri&theme=codeSTACKr)
 
 ![GitHub stats card](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sidra-Tul-Muntaha-Ghouri&theme=codeSTACKr)
-
 ![Top languages used in repository card](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sidra-Tul-Muntaha-Ghouri&theme=codeSTACKr)
 
 
