@@ -30,7 +30,7 @@
 
 ### :fire: My Stats :
  <!---
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sidra-Tul-Muntaha-Ghouri&theme=dark&background=000000)](https://git.io/streak-stats)
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sidra-Tul-Muntaha-Ghouri&theme=dark&background=00000f)](https://git.io/streak-stats)
 
    [![GitHub Streak](https://streak-stats.demolab.com?user=Sidra-Tul-Muntaha-Ghouri&theme=city-lights&exclude_days=Sun)](https://git.io/streak-stats)
  --->
