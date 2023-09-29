@@ -36,8 +36,11 @@
  --->
  
    [![GitHub Streak](https://streak-stats.demolab.com?user=Sidra-Tul-Muntaha-Ghouri&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+   
 [![Profile Detail Card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sidra-Tul-Muntaha-Ghouri&theme=transparent)
-(http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sidra-Tul-Muntaha-Ghouri&theme=transparent)
+
+[![Top languages used in repository card](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sidra-Tul-Muntaha-Ghouri&theme=transparent)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sidra-Tul-Muntaha-Ghouri&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
     
 <!---
