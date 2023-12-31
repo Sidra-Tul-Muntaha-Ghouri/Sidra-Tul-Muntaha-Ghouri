@@ -6,12 +6,14 @@
  --->
 
  ![Profile views](https://komarev.com/ghpvc/?username=Sidra-Tul-Muntaha-Ghouri)
- 
- 🎓 An **Electrical Engineer**
+
+ 🔭 I’m currently working on real-world projects to gain experience.
  
  🌱 Learning Data Science, Power BI, Python, & SQL.
  
  ✨ Actively looking to collaborate on any Intermediate-level project.
+
+ 🎓 Fun fact: I'm an **Electrical Engineer**
 
  
  ### 📫 Here's how you can reach me ...
